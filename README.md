@@ -8,7 +8,7 @@ Android, Navigation Components, Fragment, Nav_graph, Nav_host
  - create fragments as need for page
  - design destination baseed on nav_graph for all state of fragment
 
-## Find Nav controller from any where to interaction 
+## Find Nav controller from any where for interaction 
 
   - NavHostFragment.findNavController(Fragment)
   - Navigation.findNavController(Activity, @IdRes int viewId)
@@ -16,5 +16,5 @@ Android, Navigation Components, Fragment, Nav_graph, Nav_host
 
 
 
-##Clear concept about this:
+## Clear concept about this:
 https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..%2Findex#0
